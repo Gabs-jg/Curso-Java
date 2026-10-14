@@ -11,7 +11,7 @@ public class DesafioLogicos {
 
 
         // se os dois derem certos = tv de 50 e sorvete
-        if(trabalo1 && trabalho2) {
+        if(trabalho1 && trabalho2) {
             System.out.println("Ir ao shopping comprar televisão de 50 polegadas e tomar sorvete.");
             tomarSorvete = true;
             // se um der certo = tv de 32 e sorvete
